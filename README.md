@@ -1,4 +1,4 @@
-# Hi there, I'm Oleg ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm Oleg ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif =48x48) 
 
 
 ### I'm currently a Dart/Flutter developer
